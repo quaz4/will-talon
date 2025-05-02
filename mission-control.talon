@@ -1,0 +1,2 @@
+spaces:
+    key(ctrl-up)
